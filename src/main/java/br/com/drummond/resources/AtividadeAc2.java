@@ -24,4 +24,5 @@ public class AtividadeAc2 {
 		else 
 			return nao;
 	}
+	
 }
